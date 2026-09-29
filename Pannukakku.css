@@ -1,0 +1,22 @@
+#Bannari{
+ float: right;
+}
+#Firsttitle{
+    color: rgb(5, 5, 128);
+    text-align: center;
+}
+#Secondtitle{
+    color: blue;
+}
+#Thirdtitle{
+    color: blue;
+}
+body {
+    background-color: rgb(2, 192, 255);
+}
+#Bigfoot{
+    position: absolute;
+    top: 1100px;
+    left: 0px;
+}
+ul.a {list-style-type: circle;}
